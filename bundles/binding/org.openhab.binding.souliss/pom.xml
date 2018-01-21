@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>org.openhab.bundles</groupId>
 		<artifactId>binding</artifactId>
-		<version>1.11.1-SNAPSHOT</version>
+		<version>1.11.2-SNAPSHOT</version>
 	</parent>
 
 	<name>Souliss - Arduino based SmartHome - openHAB Binding</name>

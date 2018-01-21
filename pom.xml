@@ -13,7 +13,7 @@
     </parent>
 
     <artifactId>pom-addons1</artifactId>
-    <version>1.11.1-SNAPSHOT</version>
+    <version>1.11.2-SNAPSHOT</version>
     <name>openHAB 1 Add-ons</name>
 
     <organization>
